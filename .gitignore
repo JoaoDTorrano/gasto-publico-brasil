@@ -21,3 +21,6 @@ data/raw/*
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+
+# Testes feitos pela IA: dados baixados pelos scripts (não versionar)
+testes_ia/dados/
