@@ -1,0 +1,8 @@
+basedosdados>=2.0
+pandas>=2.0
+pyarrow>=14
+requests>=2.31
+python-dotenv>=1.0
+matplotlib>=3.8
+seaborn>=0.13
+jupyterlab>=4.0

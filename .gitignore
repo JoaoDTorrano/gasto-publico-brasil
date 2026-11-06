@@ -1,0 +1,23 @@
+# Ambiente
+.venv/
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Rascunhos locais
+base_info.py
+
+# Dados (são baixados pelos scripts; não versionar)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
